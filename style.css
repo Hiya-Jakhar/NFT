@@ -1,0 +1,66 @@
+body {font-family: "outfit", Arial, Helvetica, sans-serif;
+background-color: hsl(217, 54%, 11%);}
+
+.heading {font-size: 18px;
+color:white;
+text-align: left;
+font-weight: 600;}
+
+
+.main-div {
+    position: absolute;
+top:50%;
+left: 50%;
+transform: translate(-50%,-50%);
+background-color: hsl(216, 50%, 16%);
+padding: 25px 20px;
+width: 20%;
+height: 70%;
+border-radius: 15px;}
+
+.equi-img {float: top;
+max-width: 100%;
+border-radius: 15px;
+}
+
+.text {font-size: 16px;
+color:hsl(215, 51%, 70%);
+font-weight: 400;}
+
+
+.eth-text {color:hsl(178, 100%, 50%); 
+margin-left: 5px;
+position: relative;
+bottom: 3px;
+font-size: 16px;}
+
+
+.clock-text {color: hsl(215, 51%, 70%);
+font-size: 14px;
+position: relative;
+bottom: 3px;
+}
+
+.clock-span {position: relative;
+left: 90px;}
+
+.hr{color: hsl(215, 32%, 27%);
+border-style: solid none none none;
+position: relative;
+top: 10px;}
+
+.creator {border-style: solid;
+border-radius: 50%;
+border-color: white;
+width:50px;
+position: relative;
+top: 10px;}
+
+.creator-text {color:hsl(215, 51%, 70%);
+font-size: 14px;
+position: relative;
+left: 10px;
+bottom: 10px;}
+
+.white-name {color: white;
+font-size: 16px;}
